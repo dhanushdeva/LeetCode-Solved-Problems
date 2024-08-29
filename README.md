@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
+| [0645-set-mismatch](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0041-first-missing-positive) |
+| [0645-set-mismatch](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0645-set-mismatch) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0015-3sum) |
+| [0645-set-mismatch](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0089-gray-code) |
+| [0645-set-mismatch](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0645-set-mismatch) |
 ## Matrix
 |  |
 | ------- |
