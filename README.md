@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0052-n-queens-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
