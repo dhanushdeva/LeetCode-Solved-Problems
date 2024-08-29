@@ -104,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0044-wildcard-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
