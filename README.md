@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0071-simplify-path) |
+| [0434-number-of-segments-in-a-string](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0696-count-binary-substrings) |
 | [0851-goat-latin](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0851-goat-latin) |
 ## Sliding Window
