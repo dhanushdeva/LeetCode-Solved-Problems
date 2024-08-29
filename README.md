@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0071-simplify-path) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
