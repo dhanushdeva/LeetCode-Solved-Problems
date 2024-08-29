@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
