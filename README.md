@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0089-gray-code) |
 ## Matrix
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0052-n-queens-ii) |
+| [0089-gray-code](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0089-gray-code) |
 ## Simulation
 |  |
 | ------- |
