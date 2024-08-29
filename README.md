@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0054-spiral-matrix) |
+| [0413-arithmetic-slices](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0413-arithmetic-slices) |
 | [0645-set-mismatch](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0053-maximum-subarray) |
+| [0413-arithmetic-slices](https://github.com/dhanushdeva/LeetCode-Solved-Problems/tree/master/0413-arithmetic-slices) |
 ## Math
 |  |
 | ------- |
