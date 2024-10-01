@@ -28,7 +28,7 @@ class Solution {
             ListNode nn = new ListNode(sum % 10);
             carry = sum/10;
             tra.next = nn;
-            tra = tra.next;
+            tra = nn;
             if(l1!=null)
             l1 = l1.next;
             if(l2!=null)
